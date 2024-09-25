@@ -10,6 +10,7 @@
     <script src="public/js/respond.js"></script>
     <![endif]-->
     <script src="public/js/jquery.min.js"></script>
+    <script src="public/js/jquery-migrate.min.js"></script>
     <script src="public/js/bootstrap.min.js"></script>
     <link rel="shortcut icon" href="public/favicon.ico" type="image/x-icon" />
     <style>
